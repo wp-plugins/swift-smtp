@@ -1,0 +1,21 @@
+Compat files for developers upgrading Swift from versions <= 1.3.4
+
+Class names and paths changed to proper PEAR naming between 1.3 and 2.0.
+These files will allow you to keep the old class names and paths although
+you are strongly advised to update your code to use the new class names and paths.
+
+This will only work if you kept the Swift directory structure unchanged for the older
+releases. i.e.
+
+./Swift.php
+./Swift/Swift_*_*.php
+./Swift/plugins/Swift_*_Plugin.php
+
+If you moved the files out of the "./Swift/" directory these compat files won't work.
+
+INSTRUCTIONS
+------------
+
+1.  Copy files ./compat/*.php to ./Swift/
+2.  Copy directory ./compat/plugins to ./
+3.  That's all... done!
