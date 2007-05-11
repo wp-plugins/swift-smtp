@@ -27,7 +27,7 @@ Use an SMTP server for sending all email from your blog. Includes support for Gm
 * **Use TLS or SSL?** - If your server requires TLS or SSL select the appropriate setting, otherwise set to No.
 * **Port** - Select 25 for a default port setting, if you use TLS or SSL then choose the 465, otherwise choose Custom Port and enter your port number in the input box to the right.
 
-Once you’ve set your options and clicked the **Update Options** button, you can use the **Test Connection** area to send yourself a test email using your SMTP settings. If everything is working, you should see the message **TEST EMAIL SENT - Connection Verified**. and of course receive the test email in your account.
+Once you've set your options and clicked the **Update Options** button, you can use the **Test Connection** area to send yourself a test email using your SMTP settings. If everything is working, you should see the message **TEST EMAIL SENT - Connection Verified**. and of course receive the test email in your account.
 
 
 == Frequently Asked Questions ==
