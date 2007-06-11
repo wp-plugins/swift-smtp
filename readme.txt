@@ -3,8 +3,8 @@ Contributors: shiftthis
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal%40shiftthis%2enet&item_name=WordPress%20Plugin%20Development%20Donation&no_shipping=0&return=http%3a%2f%2fwww%2eshiftthis%2enet%2f&no_note=1&tax=0&currency_code=CAD&lc=CA&bn=PP%2dDonationsBF&charset=UTF%2d8&notify_url=http%3a%2f%2fwww%2eshiftthis%2enet%2f
 Tags: mail, email, smtp, gmail
 Requires at least: 2.0.2
-Tested up to: 2.0.6
-Stable tag: 0.94
+Tested up to: 2.2
+Stable tag: 1.0
 
 Use an SMTP server for sending email from your blog. Includes support for Gmail's SMTP.
 
